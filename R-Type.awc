@@ -1,0 +1,55 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="10e7c6f99fe308b1ae642828dd453400">R-Type.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/Single_Cycle_Top/clk</signal>
+        <signal>/Single_Cycle_Top/rst</signal>
+        <signal>/Single_Cycle_Top/PCModule/PC</signal>
+        <signal>/Single_Cycle_Top/Instruction_Memory/RD</signal>
+        <signal>/Single_Cycle_Top/Instruction_Memory/A</signal>
+        <signal>/Single_Cycle_Top/RF/RD1</signal>
+        <signal>/Single_Cycle_Top/RF/RD2</signal>
+        <signal>/Single_Cycle_Top/RF/RDd</signal>
+        <signal>/Single_Cycle_Top/CU/ALUSrc</signal>
+        <signal>/Single_Cycle_Top/ALU/A</signal>
+        <signal>/Single_Cycle_Top/ALU/B</signal>
+        <signal>/Single_Cycle_Top/ALU/ALUResult</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="205096" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="100000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
